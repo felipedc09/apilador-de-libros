@@ -1,5 +1,6 @@
 # Integrantes
-Luis Felipe Duitama Castillo - 20112020005 \n
+Luis Felipe Duitama Castillo - 20112020005
+
 Cristhian Yanrob Avila Palacio - 20112020013
 
 # Libros
