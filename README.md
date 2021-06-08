@@ -1,8 +1,3 @@
-# Integrantes
-Luis Felipe Duitama Castillo - 20112020005
-
-Cristhian Yanrob Avila Palacio - 20112020013
-
 # Libros
 Uso de estructuras de datos para organizar y clasificar elementos (libros), filtrando por categoría, autor o titulo.
 
